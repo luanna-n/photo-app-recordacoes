@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The Motivation Behind the Project
+
+This is my first step towards Google's Firebase.
+
+I must return here, after a while, to put personal annotations on the code (I know is not the best practice, but helps me understand the subjects better).
+
 ## Available Scripts
 
 In the project directory, you can run:
